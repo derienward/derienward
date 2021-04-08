@@ -1,6 +1,6 @@
 Hello fellow thinkers,
 
-I'm Derien. I'm new to writing code, but not new to analytical problem solving. I've been problem solving in areas such as philosphy, math, and psychology for most of my formal educational history.
+I'm Derien. I'm new to writing code, but not new to analytical problem solving. I've been problem solving in areas such as philosophy, math, and psychology for most of my formal educational history.
 
 Currently, I'm teaching myself all the math I can. From algebra to physics with the long term goal of becoming an engineer.
 
